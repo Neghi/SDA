@@ -52,7 +52,7 @@ public class Circle implements Shape {
 		return "\0";
 	}
 
-	public void Draw() {
+	public void draw() {
 		int posX = 8;
 		int posY = 8;
 
